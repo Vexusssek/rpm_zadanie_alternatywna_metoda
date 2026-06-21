@@ -1,0 +1,1 @@
+# rpm_zadanie_alternatywna_metoda
